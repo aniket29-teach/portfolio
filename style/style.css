@@ -17,6 +17,28 @@ header {
   padding: 40px 20px;
 }
 
+header a {
+  color: #93c5fd;
+}
+
+.contact-header {
+  margin-top: 12px;
+  font-size: 0.95rem;
+}
+
+.card h3 a {
+  color: #1f2937;
+  text-decoration: none;
+}
+
+.card h3 a:hover {
+  text-decoration: underline;
+}
+
+section a {
+  color: #2563eb;
+}
+
 section {
   max-width: 900px;
   background: #fff;
